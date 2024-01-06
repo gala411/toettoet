@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
